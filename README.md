@@ -1,7 +1,6 @@
 # Git & Github
 
 **git** 은 도구 **github**는 클라우드(저장소)
-
 <br />
 **git** 은 형상관리도구 = 분산형 버전관리도구
 
@@ -84,8 +83,11 @@ git switch `main`
 <hr>
 
 git add .
+<br />
 git commit
+<br />
 git push origin `main`
 
 ~~<단축키>~~
+<br />
 `<ctrl> + <w>` : 해당 창 닫기
